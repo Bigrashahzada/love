@@ -1,5 +1,3 @@
-# Author zaid#!/usr/bin/python2
-#coding=utf-8
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
 for n in range(40000):
